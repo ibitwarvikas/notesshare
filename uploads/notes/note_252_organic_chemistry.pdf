@@ -1,0 +1,119 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [ 4 0 R 6 0 R ] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 5 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+5 0 obj
+<< /Length 1035 >>
+stream
+BT
+/F1 18 Tf
+50 770 Td
+(Organic Chemistry) Tj
+ET
+BT
+/F1 10 Tf
+50 748 Td
+(Subject: Chemistry | NoteShare Library) Tj
+ET
+0.5 w
+50 733 m
+560 733 l
+S
+BT
+/F1 10 Tf
+14 TL
+50 708 Td
+(ORGANIC CHEMISTRY) '
+() '
+(1. HYDROCARBONS) '
+(Alkanes: substitution \(UV\)) '
+() '
+(Markovnikov's rule) '
+(Alkynes: addition, hydration) '
+() '
+(2. ALCOHOLS) '
+(Oxidation: 1 ->aldehyde->acid, 2 ->ketone) '
+(Dehydration: -> alkene) '
+(Esterification: ROH + RCOOH) '
+(Lucas, Iodoform tests) '
+() '
+(3. ALDEHYDES/KETONES) '
+(Nucleophilic addition) '
+(+HCN -> cyanohydrin) '
+(+Grignard -> alcohol) '
+(Reduction -> alcohol) '
+(Tollens: silver mirror) '
+(Fehling: red ppt) '
+(Iodoform: methyl ketones) '
+() '
+(4. CARBOXYLIC ACIDS) '
+(+ROH -> ester) '
+() '
+(Reduction -> 1  alcohol) '
+(Reactivity: AcylCl > Anhyd > Ester > Amide) '
+() '
+(5. AMINES) '
+(Basic) '
+(+Acid -> salt) '
+(Hinsberg, Carbylamine tests) '
+() '
+(6. AROMATIC) '
+(Electrophilic substitution:) '
+(Nitration, Halogenation, Sulfonation) '
+(Friedel-Crafts) '
+() '
+() '
+() '
+(7. STEREOCHEMISTRY) '
+ET
+
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 7 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+7 0 obj
+<< /Length 233 >>
+stream
+BT
+BT
+/F1 10 Tf
+14 TL
+50 770 Td
+(Chiral center: 4 different groups) '
+(Enantiomers, Diastereomers) '
+(R/S configuration) '
+(E/Z alkenes) '
+() '
+(8. MECHANISMS) '
+(SN1: 2 steps, carbocation) '
+(SN2: 1 step, inversion) '
+(E1, E2) '
+ET
+
+endstream
+endobj
+xref
+0 8
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000123 00000 n 
+0000000193 00000 n 
+0000000319 00000 n 
+0000001406 00000 n 
+0000001532 00000 n 
+trailer
+<< /Size 8 /Root 1 0 R >>
+startxref
+1816
+%%EOF

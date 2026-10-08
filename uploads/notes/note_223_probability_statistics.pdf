@@ -1,0 +1,80 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [ 4 0 R ] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 5 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+5 0 obj
+<< /Length 635 >>
+stream
+BT
+/F1 18 Tf
+50 770 Td
+(Probability & Statistics) Tj
+ET
+BT
+/F1 10 Tf
+50 748 Td
+(Subject: Mathematics | NoteShare Library) Tj
+ET
+0.5 w
+50 733 m
+560 733 l
+S
+BT
+/F1 10 Tf
+14 TL
+50 708 Td
+(PROBABILITY & STATISTICS) '
+() '
+(1. PROBABILITY) '
+(P\(A\) = favorable/total) '
+(P\(A'\) = 1 - P\(A\)) '
+() '
+() '
+(Bayes: P\(A|B\) = P\(B|A\)P\(A\)/P\(B\)) '
+() '
+(2. RANDOM VARIABLES) '
+() '
+(Var\(X\) = E\(X \) - [E\(X\)] ) '
+() '
+(3. DISTRIBUTIONS) '
+(Binomial: C\(n,k\)p^k\(1-p\)^\(n-k\)) '
+(Mean=np, Var=np\(1-p\)) '
+() '
+() '
+() '
+(Normal: 68-95-99.7 rule) '
+() '
+(4. HYPOTHESIS) '
+() '
+() '
+() '
+() '
+(5. REGRESSION) '
+(y = a + bx) '
+() '
+ET
+
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000117 00000 n 
+0000000187 00000 n 
+0000000313 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+999
+%%EOF

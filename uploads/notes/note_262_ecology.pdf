@@ -1,0 +1,111 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [ 4 0 R 6 0 R ] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 5 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+5 0 obj
+<< /Length 1164 >>
+stream
+BT
+/F1 18 Tf
+50 770 Td
+(Ecology) Tj
+ET
+BT
+/F1 10 Tf
+50 748 Td
+(Subject: Biology | NoteShare Library) Tj
+ET
+0.5 w
+50 733 m
+560 733 l
+S
+BT
+/F1 10 Tf
+14 TL
+50 708 Td
+(ECOLOGY) '
+() '
+(1. LEVELS) '
+(Organism -> Population -> Community) '
+(-> Ecosystem -> Biome -> Biosphere) '
+() '
+(2. ECOSYSTEM) '
+(Biotic: Producers, Consumers, Decomposers) '
+(Abiotic: Sun, Water, Temp, Soil) '
+(Energy flow: 10% rule) '
+(Food chain, Food web) '
+(Trophic levels 1-4) '
+() '
+(3. CYCLES) '
+(Water: Evaporation, Condensation, Precipitation) '
+(Carbon: Photosynthesis, Respiration, Combustion) '
+(Nitrogen: Fixation, Nitrification, Denitrification) '
+(Phosphorus: Rock weathering) '
+() '
+(4. POPULATION) '
+(Exponential: dN/dt = rN) '
+(Logistic: dN/dt = rN\(K-N\)/K) '
+(Survivorship: I, II, III) '
+(Age structure) '
+() '
+(5. COMMUNITY) '
+(Competition \(-/-\)) '
+(Predation \(+/-\)) '
+(Mutualism \(+/+\)) '
+(Commensalism \(+/0\)) '
+(Parasitism \(+/-\)) '
+(Succession: Primary, Secondary) '
+() '
+(6. BIOMES) '
+(Tropical Rainforest) '
+(Savanna, Desert) '
+(Temperate Grassland, Deciduous) '
+(Taiga, Tundra) '
+() '
+(7. ENVIRONMENT) '
+(Pollution, Climate Change) '
+(Ozone, Deforestation) '
+ET
+
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 7 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+7 0 obj
+<< /Length 52 >>
+stream
+BT
+BT
+/F1 10 Tf
+14 TL
+50 770 Td
+(Conservation) '
+ET
+
+endstream
+endobj
+xref
+0 8
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000123 00000 n 
+0000000193 00000 n 
+0000000319 00000 n 
+0000001535 00000 n 
+0000001661 00000 n 
+trailer
+<< /Size 8 /Root 1 0 R >>
+startxref
+1763
+%%EOF

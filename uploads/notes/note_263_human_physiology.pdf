@@ -1,0 +1,122 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [ 4 0 R 6 0 R ] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 5 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+5 0 obj
+<< /Length 893 >>
+stream
+BT
+/F1 18 Tf
+50 770 Td
+(Human Physiology) Tj
+ET
+BT
+/F1 10 Tf
+50 748 Td
+(Subject: Biology | NoteShare Library) Tj
+ET
+0.5 w
+50 733 m
+560 733 l
+S
+BT
+/F1 10 Tf
+14 TL
+50 708 Td
+(HUMAN PHYSIOLOGY) '
+() '
+(1. HOMEOSTASIS) '
+(Temp: 37 C) '
+(pH: 7.35-7.45) '
+(Glucose: 70-110 mg/dL) '
+(BP: 120/80) '
+() '
+(Feedback: Negative \(main\), Positive) '
+() '
+(2. NERVOUS) '
+(Action potential: -70 -> -55 -> +30 mV) '
+() '
+() '
+() '
+(Neurotransmitters:) '
+(ACh: muscle) '
+(Dopamine: reward) '
+(Serotonin: mood) '
+(GABA: inhibitory) '
+(Glutamate: excitatory) '
+() '
+(3. ENDOCRINE) '
+(Pituitary: GH, TSH, ACTH) '
+(Thyroid: T3, T4) '
+(Adrenal: Cortisol, Adrenaline) '
+(Pancreas: Insulin, Glucagon) '
+() '
+(4. CARDIOVASCULAR) '
+(CO = HR   SV) '
+(~5 L/min) '
+(BP: 120/80) '
+() '
+(5. RESPIRATORY) '
+(Tidal: 500 mL) '
+(Vital: 4700 mL) '
+() '
+() '
+() '
+(6. DIGESTIVE) '
+(Mouth: amylase) '
+(Stomach: pepsin, pH 2) '
+ET
+
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 7 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+7 0 obj
+<< /Length 252 >>
+stream
+BT
+BT
+/F1 10 Tf
+14 TL
+50 770 Td
+(SI: absorption) '
+(LI: water) '
+() '
+(7. URINARY) '
+(Filter 180 L/day) '
+(Urine 1.5 L/day) '
+(ADH, Aldosterone) '
+() '
+(8. IMMUNE) '
+(Innate: skin, phagocytes) '
+(Adaptive: B cells, T cells) '
+(Antibodies, Memory) '
+ET
+
+endstream
+endobj
+xref
+0 8
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000123 00000 n 
+0000000193 00000 n 
+0000000319 00000 n 
+0000001263 00000 n 
+0000001389 00000 n 
+trailer
+<< /Size 8 /Root 1 0 R >>
+startxref
+1692
+%%EOF

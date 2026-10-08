@@ -1,0 +1,93 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [ 4 0 R ] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 5 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+5 0 obj
+<< /Length 1231 >>
+stream
+BT
+/F1 18 Tf
+50 770 Td
+(Microbiology) Tj
+ET
+BT
+/F1 10 Tf
+50 748 Td
+(Subject: Biology | NoteShare Library) Tj
+ET
+0.5 w
+50 733 m
+560 733 l
+S
+BT
+/F1 10 Tf
+14 TL
+50 708 Td
+(MICROBIOLOGY) '
+() '
+(1. BACTERIA) '
+(Prokaryotic) '
+(Shapes: cocci, bacilli, spirilla) '
+(Gram +ve: thick peptidoglycan \(purple\)) '
+(Gram -ve: thin + outer membrane \(pink\)) '
+(Reproduction: binary fission) '
+(Pathogenic: TB, cholera, tetanus) '
+(Beneficial: gut flora, nitrogen fixation) '
+() '
+(2. VIRUSES) '
+(Acellular) '
+(DNA or RNA + protein coat) '
+(Obligate intracellular parasites) '
+(Lytic vs Lysogenic) '
+(Examples: HIV, Influenza, COVID-19, Herpes) '
+() '
+(3. FUNGI) '
+(Eukaryotic) '
+(Yeasts \(unicellular\), Molds \(multicellular\)) '
+(Cell wall: chitin) '
+(Reproduction: spores) '
+(Examples: Candida, Aspergillus) '
+(Beneficial: Penicillin, yeast in bread) '
+() '
+(4. PROTOZOA) '
+(Unicellular eukaryotes) '
+(Malaria \(Plasmodium\)) '
+(Amoeba, Paramecium) '
+() '
+(5. IMMUNITY) '
+(Innate: skin, mucus, phagocytes) '
+(Adaptive: B cells, T cells) '
+(Vaccines: attenuated, inactivated, subunit) '
+(Antibiotics: cell wall, protein synthesis) '
+() '
+(6. CULTURE) '
+(Nutrient agar) '
+(Streak plate) '
+(Incubation 37 C) '
+(Sterilization: autoclave) '
+ET
+
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000117 00000 n 
+0000000187 00000 n 
+0000000313 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+1596
+%%EOF

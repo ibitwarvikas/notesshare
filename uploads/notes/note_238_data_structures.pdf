@@ -1,0 +1,117 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [ 4 0 R 6 0 R ] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 5 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+5 0 obj
+<< /Length 1000 >>
+stream
+BT
+/F1 18 Tf
+50 770 Td
+(Data Structures) Tj
+ET
+BT
+/F1 10 Tf
+50 748 Td
+(Subject: Computer Science | NoteShare Library) Tj
+ET
+0.5 w
+50 733 m
+560 733 l
+S
+BT
+/F1 10 Tf
+14 TL
+50 708 Td
+(DATA STRUCTURES) '
+() '
+(1. ARRAYS) '
+(Access O\(1\), Search O\(n\)) '
+(Fixed size, contiguous) '
+() '
+(2. LINKED LISTS) '
+(Singly, Doubly, Circular) '
+(Access O\(n\), Insert head O\(1\)) '
+() '
+(3. STACKS \(LIFO\)) '
+(push, pop, peek O\(1\)) '
+(Apps: Function calls, Undo, DFS) '
+() '
+(4. QUEUES \(FIFO\)) '
+(enqueue, dequeue O\(1\)) '
+(Circular, Priority, Deque) '
+(Apps: BFS, Scheduling) '
+() '
+(5. TREES) '
+(Binary, BST, AVL, Red-Black) '
+(Traversals:) '
+(Inorder: L-Root-R) '
+(Preorder: Root-L-R) '
+(Postorder: L-R-Root) '
+(BST: O\(log n\) avg) '
+() '
+(6. HEAPS) '
+(Max/Min) '
+(Insert O\(log n\)) '
+(Extract O\(log n\)) '
+(Peek O\(1\)) '
+() '
+(7. GRAPHS) '
+(Matrix O\(V \), List O\(V+E\)) '
+(BFS, DFS O\(V+E\)) '
+() '
+(8. HASH TABLES) '
+(O\(1\) average) '
+(Chaining, Open addressing) '
+(Load factor n/m) '
+() '
+ET
+
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 7 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+7 0 obj
+<< /Length 179 >>
+stream
+BT
+BT
+/F1 10 Tf
+14 TL
+50 770 Td
+(9. SORTING) '
+(Bubble O\(n \)) '
+(Selection O\(n \)) '
+(Insertion O\(n \)) '
+(Merge O\(nlogn\)) '
+(Quick O\(nlogn\) avg) '
+(Heap O\(nlogn\)) '
+ET
+
+endstream
+endobj
+xref
+0 8
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000123 00000 n 
+0000000193 00000 n 
+0000000319 00000 n 
+0000001371 00000 n 
+0000001497 00000 n 
+trailer
+<< /Size 8 /Root 1 0 R >>
+startxref
+1727
+%%EOF

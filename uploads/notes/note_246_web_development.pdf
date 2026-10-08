@@ -1,0 +1,115 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [ 4 0 R 6 0 R ] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 5 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+5 0 obj
+<< /Length 1142 >>
+stream
+BT
+/F1 18 Tf
+50 770 Td
+(Web Development) Tj
+ET
+BT
+/F1 10 Tf
+50 748 Td
+(Subject: Computer Science | NoteShare Library) Tj
+ET
+0.5 w
+50 733 m
+560 733 l
+S
+BT
+/F1 10 Tf
+14 TL
+50 708 Td
+(WEB DEVELOPMENT) '
+() '
+(1. HTML5) '
+(Structure: <!DOCTYPE html>) '
+(Semantic: header, nav, main, section, article, footer) '
+(Forms: input, textarea, select) '
+(Input types: text, email, password, number, date) '
+() '
+(2. CSS3) '
+(Box model: content, padding, border, margin) '
+(Display: block, inline, flex, grid, none) '
+() '
+(Flexbox:) '
+(display: flex;) '
+(justify-content: center;) '
+(align-items: center;) '
+() '
+(Grid:) '
+(display: grid;) '
+(grid-template-columns: repeat\(3, 1fr\);) '
+() '
+(Colors: hex, rgb, rgba, hsl) '
+(Gradients, Shadows, Transitions) '
+(Media queries: @media \(max-width: 768px\)) '
+() '
+(3. JAVASCRIPT) '
+(let, const) '
+(Arrow: \(\) => {}) '
+(Template: `Hi ${name}`) '
+() '
+(Arrays: map, filter, reduce) '
+(Objects, Destructuring, Spread) '
+() '
+(DOM:) '
+(getElementById, querySelector) '
+(textContent, innerHTML) '
+(classList, style) '
+(addEventListener) '
+() '
+(Async:) '
+(fetch\(url\).then\(\).catch\(\)) '
+(async/await) '
+ET
+
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 7 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+7 0 obj
+<< /Length 133 >>
+stream
+BT
+BT
+/F1 10 Tf
+14 TL
+50 770 Td
+() '
+(4. HTTP) '
+(Methods: GET, POST, PUT, DELETE) '
+(Status: 200, 404, 500) '
+(REST API, JSON) '
+ET
+
+endstream
+endobj
+xref
+0 8
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000123 00000 n 
+0000000193 00000 n 
+0000000319 00000 n 
+0000001513 00000 n 
+0000001639 00000 n 
+trailer
+<< /Size 8 /Root 1 0 R >>
+startxref
+1823
+%%EOF

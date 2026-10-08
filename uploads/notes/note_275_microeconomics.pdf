@@ -1,0 +1,115 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [ 4 0 R 6 0 R ] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 5 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+5 0 obj
+<< /Length 1008 >>
+stream
+BT
+/F1 18 Tf
+50 770 Td
+(Microeconomics) Tj
+ET
+BT
+/F1 10 Tf
+50 748 Td
+(Subject: Economics | NoteShare Library) Tj
+ET
+0.5 w
+50 733 m
+560 733 l
+S
+BT
+/F1 10 Tf
+14 TL
+50 708 Td
+(MICROECONOMICS) '
+() '
+(1. DEMAND) '
+(Law: P^ -> QdV) '
+(Curve: downward sloping) '
+(Shifters: Income, Tastes, Prices of related) '
+() '
+() '
+(2. SUPPLY) '
+(Law: P^ -> Qs^) '
+(Curve: upward sloping) '
+(Shifters: Input costs, Technology, Taxes) '
+() '
+(3. EQUILIBRIUM) '
+(Qd = Qs) '
+(Surplus, Shortage) '
+(Price mechanism) '
+() '
+(4. ELASTICITY) '
+(Elastic: |E| > 1) '
+(Inelastic: |E| < 1) '
+(Unitary: |E| = 1) '
+() '
+(5. CONSUMER THEORY) '
+(Utility) '
+(Marginal utility) '
+(Indifference curves) '
+(Budget constraint) '
+(Consumer surplus) '
+() '
+(6. PRODUCTION) '
+(Fixed vs Variable costs) '
+(Short run vs Long run) '
+(Law of diminishing returns) '
+(Economies of scale) '
+() '
+(7. MARKET STRUCTURES) '
+(Perfect Competition: many, identical) '
+(Monopoly: one seller) '
+(Oligopoly: few sellers) '
+(Monopolistic: differentiated) '
+() '
+ET
+
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 7 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+7 0 obj
+<< /Length 142 >>
+stream
+BT
+BT
+/F1 10 Tf
+14 TL
+50 770 Td
+(8. EXTERNALITIES) '
+(Positive: education) '
+(Negative: pollution) '
+(Pigouvian taxes) '
+(Coase theorem) '
+ET
+
+endstream
+endobj
+xref
+0 8
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000123 00000 n 
+0000000193 00000 n 
+0000000319 00000 n 
+0000001379 00000 n 
+0000001505 00000 n 
+trailer
+<< /Size 8 /Root 1 0 R >>
+startxref
+1698
+%%EOF

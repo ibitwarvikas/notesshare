@@ -1,0 +1,92 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [ 4 0 R ] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 5 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+5 0 obj
+<< /Length 1039 >>
+stream
+BT
+/F1 18 Tf
+50 770 Td
+(Operating Systems) Tj
+ET
+BT
+/F1 10 Tf
+50 748 Td
+(Subject: Computer Science | NoteShare Library) Tj
+ET
+0.5 w
+50 733 m
+560 733 l
+S
+BT
+/F1 10 Tf
+14 TL
+50 708 Td
+(OPERATING SYSTEMS) '
+() '
+(1. PROCESSES) '
+(New, Ready, Running, Waiting, Terminated) '
+(PCB: PID, PC, registers) '
+(Process vs Thread) '
+() '
+(2. SCHEDULING) '
+(FCFS: convoy) '
+(SJF: optimal) '
+(SRTF: preemptive) '
+(RR: quantum) '
+(Priority: aging) '
+(MLFQ) '
+() '
+(3. SYNCHRONIZATION) '
+(Critical section) '
+(Mutual exclusion) '
+(Peterson's, Test-and-Set) '
+(Semaphore, Mutex, Monitor) '
+(Producer-Consumer, Dining Philosophers) '
+() '
+(4. DEADLOCK) '
+(4 conditions) '
+(Prevention, Avoidance, Detection, Recovery) '
+(Banker's algorithm) '
+() '
+(5. MEMORY) '
+(Paging, Segmentation, Virtual) '
+(Page replacement: FIFO, LRU, Optimal, Clock) '
+(Thrashing) '
+() '
+(6. FILE SYSTEMS) '
+(Contiguous, Linked, Indexed) '
+(B-Tree directories) '
+(Permissions) '
+() '
+(7. I/O) '
+(Programmed, Interrupt, DMA) '
+(Disk scheduling: FCFS, SSTF, SCAN) '
+(RAID levels) '
+ET
+
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000117 00000 n 
+0000000187 00000 n 
+0000000313 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+1404
+%%EOF

@@ -1,0 +1,114 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [ 4 0 R 6 0 R ] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 5 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+5 0 obj
+<< /Length 968 >>
+stream
+BT
+/F1 18 Tf
+50 770 Td
+(Study Skills) Tj
+ET
+BT
+/F1 10 Tf
+50 748 Td
+(Subject: General | NoteShare Library) Tj
+ET
+0.5 w
+50 733 m
+560 733 l
+S
+BT
+/F1 10 Tf
+14 TL
+50 708 Td
+(STUDY SKILLS) '
+() '
+(1. TIME MANAGEMENT) '
+(Pomodoro: 25 min + 5 min break) '
+(Eisenhower Matrix: Urgent vs Important) '
+(To-do lists, Planner) '
+(Avoid multitasking) '
+() '
+(2. ACTIVE LEARNING) '
+(Feynman Technique:) '
+(1. Pick a concept) '
+(2. Explain to a child) '
+(3. Identify gaps) '
+(4. Simplify) '
+() '
+(Cornell Notes:) '
+(Column for cues, notes, summary) '
+() '
+(Mind maps, Flashcards) '
+() '
+(3. MEMORY) '
+(Spaced repetition) '
+(Mnemonic devices) '
+(Chunking) '
+(Sleep \(crucial for consolidation\)) '
+() '
+(4. FOCUS) '
+(Remove distractions) '
+(Phone away) '
+(Study environment) '
+(Deep work blocks) '
+() '
+(5. EXAM PREP) '
+(Start early) '
+(Practice papers) '
+(Review past mistakes) '
+(Teach others) '
+(Simulate exam conditions) '
+() '
+(6. WELLBEING) '
+(Sleep 7-8 hours) '
+(Exercise) '
+ET
+
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 7 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+7 0 obj
+<< /Length 96 >>
+stream
+BT
+BT
+/F1 10 Tf
+14 TL
+50 770 Td
+(Hydration) '
+(Nutrition) '
+(Breaks) '
+(Social connection) '
+ET
+
+endstream
+endobj
+xref
+0 8
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000123 00000 n 
+0000000193 00000 n 
+0000000319 00000 n 
+0000001338 00000 n 
+0000001464 00000 n 
+trailer
+<< /Size 8 /Root 1 0 R >>
+startxref
+1610
+%%EOF

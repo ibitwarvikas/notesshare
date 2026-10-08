@@ -1,0 +1,111 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [ 4 0 R 6 0 R ] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 5 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+5 0 obj
+<< /Length 1147 >>
+stream
+BT
+/F1 18 Tf
+50 770 Td
+(Physical Geography) Tj
+ET
+BT
+/F1 10 Tf
+50 748 Td
+(Subject: Geography | NoteShare Library) Tj
+ET
+0.5 w
+50 733 m
+560 733 l
+S
+BT
+/F1 10 Tf
+14 TL
+50 708 Td
+(PHYSICAL GEOGRAPHY) '
+() '
+(1. EARTH STRUCTURE) '
+(Crust \(5-70 km\)) '
+(Mantle \(2,900 km\)) '
+(Outer core \(liquid\)) '
+(Inner core \(solid\)) '
+(Plates, Plate tectonics) '
+() '
+(2. LANDFORMS) '
+(Mountains: Fold, Block, Volcanic) '
+(Plateaus, Plains) '
+(Valleys: V-shaped, U-shaped \(glaciers\)) '
+(Coastal: Cliffs, Beaches, Deltas) '
+() '
+(3. CLIMATE) '
+(Koppen classification) '
+(Tropical, Dry, Temperate, Continental, Polar) '
+(Factors: Latitude, Altitude, Distance from sea) '
+(Monsoon) '
+() '
+(4. ATMOSPHERE) '
+(Troposphere \(weather\)) '
+(Stratosphere \(ozone\)) '
+(Mesosphere) '
+(Thermosphere) '
+(Exosphere) '
+() '
+(5. OCEANS) '
+(Pacific \(largest\), Atlantic, Indian, Arctic, Southern) '
+(Currents, Tides) '
+(Ocean floor: shelf, slope, trench) '
+() '
+(6. RIVERS) '
+(Erosion, Transportation, Deposition) '
+(Meanders, Oxbow lakes) '
+(Deltas, Flood plains) '
+() '
+(7. GLACIERS) '
+(Formation) '
+(Erosion: Cirque, Ar te, Horn) '
+(Deposition: Moraine, Drumlin) '
+ET
+
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 7 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+7 0 obj
+<< /Length 48 >>
+stream
+BT
+BT
+/F1 10 Tf
+14 TL
+50 770 Td
+(Ice ages) '
+ET
+
+endstream
+endobj
+xref
+0 8
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000123 00000 n 
+0000000193 00000 n 
+0000000319 00000 n 
+0000001518 00000 n 
+0000001644 00000 n 
+trailer
+<< /Size 8 /Root 1 0 R >>
+startxref
+1742
+%%EOF

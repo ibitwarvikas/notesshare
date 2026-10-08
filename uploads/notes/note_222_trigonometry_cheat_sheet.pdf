@@ -1,0 +1,71 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [ 4 0 R ] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 5 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+5 0 obj
+<< /Length 597 >>
+stream
+BT
+/F1 18 Tf
+50 770 Td
+(Trigonometry Cheat Sheet) Tj
+ET
+BT
+/F1 10 Tf
+50 748 Td
+(Subject: Mathematics | NoteShare Library) Tj
+ET
+0.5 w
+50 733 m
+560 733 l
+S
+BT
+/F1 10 Tf
+14 TL
+50 708 Td
+(TRIGONOMETRY) '
+() '
+(sin x + cos x = 1) '
+(1 + tan x = sec x) '
+(1 + cot x = csc x) '
+() '
+(sin\(A+B\) = sinA cosB + cosA sinB) '
+(cos\(A+B\) = cosA cosB - sinA sinB) '
+(tan\(A+B\) = \(tanA+tanB\)/\(1-tanA tanB\)) '
+() '
+(sin\(2A\) = 2 sinA cosA) '
+(cos\(2A\) = cos A - sin A) '
+() '
+(Standard Values:) '
+() '
+() '
+() '
+() '
+(Law of Sines: a/sinA = b/sinB = c/sinC) '
+(Law of Cosines: c  = a +b -2ab cosC) '
+ET
+
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000117 00000 n 
+0000000187 00000 n 
+0000000313 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+961
+%%EOF

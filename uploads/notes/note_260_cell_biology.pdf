@@ -1,0 +1,93 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [ 4 0 R ] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 5 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+5 0 obj
+<< /Length 1056 >>
+stream
+BT
+/F1 18 Tf
+50 770 Td
+(Cell Biology) Tj
+ET
+BT
+/F1 10 Tf
+50 748 Td
+(Subject: Biology | NoteShare Library) Tj
+ET
+0.5 w
+50 733 m
+560 733 l
+S
+BT
+/F1 10 Tf
+14 TL
+50 708 Td
+(CELL BIOLOGY) '
+() '
+(1. CELL THEORY) '
+(All living = cells) '
+(Basic unit of life) '
+(Cells from cells) '
+() '
+(2. PROKARYOTIC vs EUKARYOTIC) '
+() '
+() '
+() '
+(3. ORGANELLES) '
+(Nucleus: DNA) '
+(Mitochondria: ATP) '
+(Ribosomes: protein) '
+(Rough ER: protein synth) '
+(Smooth ER: lipids) '
+(Golgi: packaging) '
+(Lysosomes: digestion) '
+(Vacuoles: storage) '
+(Chloroplasts: photosynthesis) '
+(Cell wall: cellulose) '
+() '
+(4. MEMBRANE) '
+(Fluid mosaic: phospholipid + proteins + cholesterol) '
+() '
+(Transport:) '
+(Passive: diffusion, osmosis, facilitated) '
+(Active: Na-K pump) '
+() '
+(Tonicity: hyper/hypo/isotonic) '
+() '
+(5. DIVISION) '
+(Mitosis: 2 identical cells) '
+(Interphase, Prophase, Metaphase, Anaphase, Telophase) '
+() '
+(Meiosis: 4 haploid cells) '
+(Crossing over, independent assortment) '
+() '
+(6. TRANSPORT) '
+(Endocytosis, Exocytosis) '
+(Phagocytosis, Pinocytosis) '
+ET
+
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000117 00000 n 
+0000000187 00000 n 
+0000000313 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+1421
+%%EOF

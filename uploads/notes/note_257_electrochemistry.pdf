@@ -1,0 +1,113 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [ 4 0 R 6 0 R ] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 5 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+5 0 obj
+<< /Length 859 >>
+stream
+BT
+/F1 18 Tf
+50 770 Td
+(Electrochemistry) Tj
+ET
+BT
+/F1 10 Tf
+50 748 Td
+(Subject: Chemistry | NoteShare Library) Tj
+ET
+0.5 w
+50 733 m
+560 733 l
+S
+BT
+/F1 10 Tf
+14 TL
+50 708 Td
+(ELECTROCHEMISTRY) '
+() '
+(1. REDOX) '
+() '
+() '
+(OIL RIG \(Oxidation Is Loss\)) '
+() '
+(2. OXIDATION NUMBERS) '
+(Free element: 0) '
+(Monatomic ion: charge) '
+(O usually: -2) '
+(H usually: +1) '
+(Sum in molecule = charge) '
+() '
+(3. GALVANIC CELL) '
+(Anode: oxidation \(-\)) '
+(Cathode: reduction \(+\)) '
+() '
+(Cell notation:) '
+() '
+() '
+(EMF: E cell = E cathode - E anode) '
+() '
+(4. NERNST EQUATION) '
+(E = E  - \(RT/nF\)lnQ) '
+(E = E  - \(0.0592/n\)logQ at 25 C) '
+() '
+(5. STANDARD REDUCTION POTENTIALS) '
+() '
+() '
+() '
+() '
+() '
+() '
+() '
+(6. ELECTROLYSIS) '
+(Faraday's laws) '
+(F = 96500 C/mol) '
+(Used for plating, refining) '
+() '
+(7. BATTERIES) '
+(Dry cell \(1.5 V\)) '
+ET
+
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 7 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+7 0 obj
+<< /Length 103 >>
+stream
+BT
+BT
+/F1 10 Tf
+14 TL
+50 770 Td
+(Lead-acid \(2 V/cell\)) '
+(Lithium-ion \(3.7 V\)) '
+(Fuel cells) '
+ET
+
+endstream
+endobj
+xref
+0 8
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000123 00000 n 
+0000000193 00000 n 
+0000000319 00000 n 
+0000001229 00000 n 
+0000001355 00000 n 
+trailer
+<< /Size 8 /Root 1 0 R >>
+startxref
+1509
+%%EOF

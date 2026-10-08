@@ -1,0 +1,92 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [ 4 0 R ] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 5 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+5 0 obj
+<< /Length 654 >>
+stream
+BT
+/F1 18 Tf
+50 770 Td
+(Fluid Mechanics) Tj
+ET
+BT
+/F1 10 Tf
+50 748 Td
+(Subject: Physics | NoteShare Library) Tj
+ET
+0.5 w
+50 733 m
+560 733 l
+S
+BT
+/F1 10 Tf
+14 TL
+50 708 Td
+(FLUID MECHANICS) '
+() '
+(1. PRESSURE) '
+(P = F/A) '
+(Pascal: 1 Pa = 1 N/m ) '
+() '
+() '
+() '
+(2. PASCAL'S LAW) '
+(Pressure transmitted equally) '
+(Hydraulic lift) '
+() '
+(3. ARCHIMEDES) '
+() '
+() '
+() '
+() '
+(4. CONTINUITY) '
+() '
+() '
+(5. BERNOULLI) '
+() '
+() '
+(Applications:) '
+(Airplane wings) '
+(Venturi meter) '
+(Pitot tube) '
+(Atomizer) '
+() '
+(6. VISCOSITY) '
+() '
+() '
+() '
+() '
+() '
+(Re < 2000: laminar) '
+(Re > 4000: turbulent) '
+() '
+(7. SURFACE TENSION) '
+() '
+() '
+ET
+
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000117 00000 n 
+0000000187 00000 n 
+0000000313 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+1018
+%%EOF

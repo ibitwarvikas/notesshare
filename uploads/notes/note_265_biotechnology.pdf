@@ -1,0 +1,91 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [ 4 0 R ] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 5 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+5 0 obj
+<< /Length 963 >>
+stream
+BT
+/F1 18 Tf
+50 770 Td
+(Biotechnology) Tj
+ET
+BT
+/F1 10 Tf
+50 748 Td
+(Subject: Biology | NoteShare Library) Tj
+ET
+0.5 w
+50 733 m
+560 733 l
+S
+BT
+/F1 10 Tf
+14 TL
+50 708 Td
+(BIOTECHNOLOGY) '
+() '
+(1. TOOLS) '
+(Restriction enzymes \(molecular scissors\)) '
+(DNA ligase) '
+(Vectors: plasmids, viruses) '
+(Host: E. coli, yeast) '
+() '
+(2. TECHNIQUES) '
+(PCR: amplify DNA) '
+(Denature 95 C) '
+(Anneal 55 C) '
+(Extend 72 C) '
+(Gel electrophoresis: separate DNA) '
+(DNA sequencing: Sanger method) '
+(CRISPR-Cas9: gene editing) '
+() '
+(3. APPLICATIONS) '
+(Medicine:) '
+(Insulin production) '
+(Vaccines) '
+(Gene therapy) '
+(Monoclonal antibodies) '
+(Agriculture:) '
+(GM crops \(Bt cotton, Golden rice\)) '
+(Pest resistance) '
+(Environment:) '
+(Bioremediation) '
+(Biofuels) '
+() '
+(4. GENOMICS) '
+(Human Genome Project) '
+(Bioinformatics) '
+(Personalized medicine) '
+() '
+(5. ETHICS) '
+(GMO concerns) '
+(Gene editing \(germline\)) '
+(Cloning) '
+(Privacy of genetic data) '
+ET
+
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000117 00000 n 
+0000000187 00000 n 
+0000000313 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+1327
+%%EOF

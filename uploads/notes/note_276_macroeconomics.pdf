@@ -1,0 +1,116 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [ 4 0 R 6 0 R ] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 5 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+5 0 obj
+<< /Length 1011 >>
+stream
+BT
+/F1 18 Tf
+50 770 Td
+(Macroeconomics) Tj
+ET
+BT
+/F1 10 Tf
+50 748 Td
+(Subject: Economics | NoteShare Library) Tj
+ET
+0.5 w
+50 733 m
+560 733 l
+S
+BT
+/F1 10 Tf
+14 TL
+50 708 Td
+(MACROECONOMICS) '
+() '
+(1. GDP) '
+(Y = C + I + G + \(X - M\)) '
+(Nominal vs Real) '
+(Per capita) '
+() '
+(2. INFLATION) '
+(CPI, PPI) '
+(Demand-pull, Cost-push) '
+(Winners/Losers) '
+(Hyperinflation) '
+() '
+(3. UNEMPLOYMENT) '
+(Types: Frictional, Structural, Cyclical) '
+(Natural rate) '
+(Okun's law) '
+(Phillips curve) '
+() '
+(4. BUSINESS CYCLE) '
+(Expansion, Peak, Recession, Trough) '
+() '
+(5. FISCAL POLICY) '
+(Government spending) '
+(Taxation) '
+(Expansionary: increase G, cut T) '
+(Contractionary: opposite) '
+(Multiplier effect) '
+(Deficit, Debt) '
+() '
+(6. MONETARY POLICY) '
+(Central bank \(RBI, Fed\)) '
+(Interest rates) '
+(Open market operations) '
+(Reserve requirements) '
+(Expansionary vs Contractionary) '
+() '
+(7. MONEY) '
+(Functions: medium, unit, store) '
+(M1, M2, M3) '
+(Money multiplier) '
+(Quantity theory: MV = PY) '
+ET
+
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 7 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+7 0 obj
+<< /Length 162 >>
+stream
+BT
+BT
+/F1 10 Tf
+14 TL
+50 770 Td
+() '
+(8. INTERNATIONAL) '
+(Trade, Comparative advantage) '
+(Exchange rates) '
+(Balance of payments) '
+(IMF, World Bank, WTO) '
+ET
+
+endstream
+endobj
+xref
+0 8
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000123 00000 n 
+0000000193 00000 n 
+0000000319 00000 n 
+0000001382 00000 n 
+0000001508 00000 n 
+trailer
+<< /Size 8 /Root 1 0 R >>
+startxref
+1721
+%%EOF

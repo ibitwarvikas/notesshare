@@ -1,0 +1,89 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [ 4 0 R ] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 5 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+5 0 obj
+<< /Length 712 >>
+stream
+BT
+/F1 18 Tf
+50 770 Td
+(Optics) Tj
+ET
+BT
+/F1 10 Tf
+50 748 Td
+(Subject: Physics | NoteShare Library) Tj
+ET
+0.5 w
+50 733 m
+560 733 l
+S
+BT
+/F1 10 Tf
+14 TL
+50 708 Td
+(OPTICS) '
+() '
+(1. REFLECTION) '
+(Angle i = angle r) '
+(Plane mirror) '
+(Spherical mirrors) '
+(Mirror formula: 1/f = 1/v + 1/u) '
+(Magnification: m = -v/u) '
+() '
+(2. REFRACTION) '
+() '
+(Refractive index: n = c/v) '
+() '
+(Total internal reflection) '
+() '
+(3. LENSES) '
+(1/f = 1/v - 1/u) '
+(m = v/u) '
+(Power: P = 1/f \(diopters\)) '
+() '
+(4. WAVE OPTICS) '
+(Interference:) '
+(Young's double slit) '
+() '
+() '
+() '
+() '
+(Diffraction:) '
+() '
+() '
+() '
+(5. POLARIZATION) '
+() '
+() '
+() '
+(6. DISPERSION) '
+(Prism, rainbow) '
+(Violet bends most) '
+ET
+
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000117 00000 n 
+0000000187 00000 n 
+0000000313 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+1076
+%%EOF

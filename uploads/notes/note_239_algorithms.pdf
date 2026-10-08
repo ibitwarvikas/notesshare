@@ -1,0 +1,114 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [ 4 0 R 6 0 R ] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 5 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+5 0 obj
+<< /Length 1044 >>
+stream
+BT
+/F1 18 Tf
+50 770 Td
+(Algorithms) Tj
+ET
+BT
+/F1 10 Tf
+50 748 Td
+(Subject: Computer Science | NoteShare Library) Tj
+ET
+0.5 w
+50 733 m
+560 733 l
+S
+BT
+/F1 10 Tf
+14 TL
+50 708 Td
+(ALGORITHMS) '
+() '
+(1. COMPLEXITY) '
+(O\(1\) < O\(log n\) < O\(n\) < O\(n log n\) < O\(n \) < O\(2^n\)) '
+() '
+(2. MASTER THEOREM) '
+(T\(n\) = aT\(n/b\) + f\(n\)) '
+(3 cases based on n^\(log_b a\)) '
+() '
+(3. DIVIDE & CONQUER) '
+(Merge Sort O\(nlogn\)) '
+(Quick Sort O\(nlogn\)) '
+(Binary Search O\(logn\)) '
+(Strassen O\(n^2.81\)) '
+() '
+(4. GREEDY) '
+(Activity Selection) '
+(Huffman Coding) '
+(Dijkstra, Prim, Kruskal) '
+(Fractional Knapsack) '
+() '
+(5. DYNAMIC PROGRAMMING) '
+(Fibonacci O\(n\)) '
+(0/1 Knapsack O\(nW\)) '
+(LCS O\(mn\)) '
+(Edit Distance O\(mn\)) '
+(Matrix Chain O\(n \)) '
+(Coin Change) '
+() '
+(6. GRAPH) '
+(BFS O\(V+E\)) '
+(DFS O\(V+E\)) '
+(Dijkstra O\(\(V+E\)logV\)) '
+(Bellman-Ford O\(VE\)) '
+(Floyd-Warshall O\(V \)) '
+(Topological O\(V+E\)) '
+() '
+(7. NP-COMPLETENESS) '
+(P, NP, NP-Complete, NP-Hard) '
+(SAT, 3-SAT, Clique, TSP) '
+() '
+() '
+ET
+
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 7 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+7 0 obj
+<< /Length 127 >>
+stream
+BT
+BT
+/F1 10 Tf
+14 TL
+50 770 Td
+(8. APPROXIMATION) '
+(TSP: 2-approx) '
+(Vertex Cover: 2-approx) '
+(Set Cover: O\(log n\)) '
+ET
+
+endstream
+endobj
+xref
+0 8
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000123 00000 n 
+0000000193 00000 n 
+0000000319 00000 n 
+0000001415 00000 n 
+0000001541 00000 n 
+trailer
+<< /Size 8 /Root 1 0 R >>
+startxref
+1719
+%%EOF

@@ -1,0 +1,111 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [ 4 0 R 6 0 R ] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 5 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+5 0 obj
+<< /Length 552 >>
+stream
+BT
+/F1 18 Tf
+50 770 Td
+(Thermochemistry) Tj
+ET
+BT
+/F1 10 Tf
+50 748 Td
+(Subject: Chemistry | NoteShare Library) Tj
+ET
+0.5 w
+50 733 m
+560 733 l
+S
+BT
+/F1 10 Tf
+14 TL
+50 708 Td
+(THERMOCHEMISTRY) '
+() '
+(1. FIRST LAW) '
+() '
+() '
+() '
+() '
+(2. ENTHALPY) '
+() '
+() '
+() '
+() '
+() '
+() '
+(Hess's Law:) '
+() '
+() '
+() '
+() '
+() '
+() '
+() '
+() '
+(3. CALORIMETRY) '
+() '
+() '
+(Specific heats \(J/g C\):) '
+(Water: 4.184) '
+(Aluminum: 0.900) '
+(Copper: 0.387) '
+() '
+(4. ENTROPY) '
+() '
+(Gas > Liquid > Solid) '
+() '
+() '
+(5. GIBBS) '
+() '
+() '
+() '
+() '
+() '
+ET
+
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 7 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+7 0 obj
+<< /Length 40 >>
+stream
+BT
+BT
+/F1 10 Tf
+14 TL
+50 770 Td
+() '
+ET
+
+endstream
+endobj
+xref
+0 8
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000123 00000 n 
+0000000193 00000 n 
+0000000319 00000 n 
+0000000922 00000 n 
+0000001048 00000 n 
+trailer
+<< /Size 8 /Root 1 0 R >>
+startxref
+1138
+%%EOF
