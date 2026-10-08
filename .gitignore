@@ -1,0 +1,8 @@
+# OS and IDE files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Nested accidental directory
+/noteshare/
